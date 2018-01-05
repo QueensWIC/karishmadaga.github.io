@@ -5,7 +5,7 @@
 
 # Karishma Daga
 
-Meow there, this site is currently under reconstruction! I'm Karishma, a sophomore CS and Math student at Queen's University, Canada, and a previous SDE intern at [BMO Capital Markets](https://www.bmocm.com/) where I worked on internal data validation tools for ETL layers.
+Hi there, this site is currently under reconstruction! I'm Karishma, a sophomore CS and Math student at Queen's University, Canada, and a previous SDE intern at [BMO Capital Markets](https://www.bmocm.com/) where I worked on internal data validation tools for ETL layers.
 
 You can ping me at karishma.daga@queensu.ca or peep my
 
