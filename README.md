@@ -4,6 +4,8 @@ You can ping me at karishma.daga@queensu.ca or peep me on
 
 [twitter](https://twitter.com/karishmadagaa)
 //
+[course notes](http://karishmadaga.com/course-notes)
+//
 [linkedin](https://www.linkedin.com/in/karishma-daga/)
 //
 [github](https://github.com/KarishmaDaga)
