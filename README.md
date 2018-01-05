@@ -1,6 +1,6 @@
 Meow there, this site is currently under reconstruction! 
 
-You can ping me at karishma.daga@queensu.ca or peep me on
+You can ping me at karishma.daga@queensu.ca or peep my
 
 [twitter](https://twitter.com/karishmadagaa)
 //
