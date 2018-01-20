@@ -1,6 +1,6 @@
 <style>
   h1 a {display: none;}
-  .container-lg {min-width: 200px; max-width: 580px; padding: 45px;}
+  .container-lg {min-width: 200px; max-width: 680px; padding: 45px;}
 </style>
 
 # Karishma Daga
