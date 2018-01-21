@@ -19,4 +19,7 @@ You can ping me at karishma.daga@queensu.ca or peep my
 //
 [resume](https://drive.google.com/open?id=10sPHmk2PBIbAKSIlKT7CxfAwqCdq6vy-)
 
-I'm excited to be attending ~~[Starcon](https://starcon.io/)~~, [MakeHarvard](http://makeharvard.io/), [SheHacks](http://shehacks.io/), and [WeCode@Harvard](http://www.wecodeharvard.com/) in the next few months! 
+Come say hello if you're at ~~[Starcon](https://starcon.io/)~~, [MakeHarvard](http://makeharvard.io/), [SheHacks](http://shehacks.io/), and [WeCode@Harvard](http://www.wecodeharvard.com/) in the next few months! 
+
+--- 
+###### _This is definitely still under construction._
