@@ -7,7 +7,7 @@
 
 # Karishma Daga
 
-Hi there! I'm Karishma, a sophomore CS and Math student at Queen's University, Canada, and a previous SDE intern at [BMO Capital Markets](https://www.bmocm.com/) where I worked on internal data validation tools for ETL layers. I am an electrical team member of the [Queen's Space Engineering](http://qset.ca/) design team and the Outreach and Events coordinator for [Women in CS](http://qscwisc.weebly.com/) at Queen's 💖.
+Hi there! I'm Karishma, a sophomore CS and Math student at Queen's University, Canada, and a previous SDE intern at [BMO Capital Markets](https://www.bmocm.com/) where I worked on internal data validation tools for ETL layers. I am an electrical team member of the [Queen's Space Engineering](http://qset.ca/) design team and the Outreach and Events coordinator for [Women in CS](http://qscwisc.weebly.com/) at Queen's 💖. I also love playing the tuba, stats, solo-travelling, and going on coffee crawls. 
 
 You can ping me at karishma.daga@queensu.ca or peep my
 
