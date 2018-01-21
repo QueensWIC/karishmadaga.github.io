@@ -1,7 +1,7 @@
 <style>
   h1 a {display: none;}
   .container-lg {min-width: 200px; max-width: 680px; padding: 45px;}
-  h1 {font-family: 'Lora', serif; font-size: 48px}
+  h1 {font-family: 'Lora', serif; font-size: 250%}
   h3,h4,h5,h6,p {line-height: 1.8em}
 </style>
 
