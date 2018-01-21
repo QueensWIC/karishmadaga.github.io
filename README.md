@@ -1,6 +1,8 @@
 <style>
   h1 a {display: none;}
   .container-lg {min-width: 200px; max-width: 680px; padding: 45px;}
+  h1, h2 {font-family: 'Lora', serif;}
+  h3,h4,h5,h6,p {font-family: 'Open Sans', sans-serif; line-height: 1.2em}
 </style>
 
 # Karishma Daga
