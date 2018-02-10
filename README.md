@@ -11,6 +11,8 @@ Hi there! I'm Karishma, a sophomore CS and Math student at Queen's University, C
 
 You can ping me at karishma.daga@queensu.ca or peep my
 
+[resume](https://drive.google.com/file/d/16_wuQqkRYZVr2W3V9RRKUicrlVDE8YyV/view?usp=sharing)
+//
 [twitter](https://twitter.com/karishmadagaa)
 //
 [course notes](http://karishmadaga.com/course-notes)
@@ -18,8 +20,6 @@ You can ping me at karishma.daga@queensu.ca or peep my
 [linkedin](https://www.linkedin.com/in/karishma-daga/)
 //
 [github](https://github.com/KarishmaDaga)
-//
-[resume](https://docs.google.com/document/d/1HnNiEgDOQrLmA61FUOWmBTFCKvsp3_jrBR4tlTE_q2s/edit?usp=sharing)
 
 Come say hello if you're at ~~[Starcon](https://starcon.io/)~~, [MakeHarvard](http://makeharvard.io/), [Hack the Valley](https://hackvalley2.com/), and [WeCode@Harvard](http://www.wecodeharvard.com/) in the next few months! 
 
