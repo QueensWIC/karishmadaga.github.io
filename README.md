@@ -1,8 +1,8 @@
 <style>
   h1 a {display: none;}
   .container-lg {min-width: 200px; max-width: 680px; padding: 45px;}
-  h1 {font-family: 'Montserrat', sans-serif;}
-  h3,h4,h5,h6,p {line-height: 1.8em}
+  h1 {font-family: 'Roboto', sans-serif;}
+  h3,h4,h5,h6,p {line-height: 1.8em; font-family: 'Roboto', sans-serif;}
 </style>
 
 # Karishma Daga
