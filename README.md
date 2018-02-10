@@ -21,7 +21,7 @@ You can ping me at karishma.daga@queensu.ca or peep my
 //
 [github](https://github.com/KarishmaDaga)
 
-Come say hello if you're at ~~[Starcon](https://starcon.io/)~~, [MakeHarvard](http://makeharvard.io/), [Hack the Valley](https://hackvalley2.com/), and [WeCode@Harvard](http://www.wecodeharvard.com/) in the next few months! 
+Come say hello if you're at ~~[Starcon](https://starcon.io/)~~, ~~[MakeHarvard](http://makeharvard.io/)~~, [Hack the Valley](https://hackvalley2.com/), and [WeCode@Harvard](http://www.wecodeharvard.com/) in the next few months! 
 
 --- 
 ###### _This is definitely still under construction._
