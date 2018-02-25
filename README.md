@@ -10,18 +10,12 @@
 
 Hi there! I'm Karishma, a sophomore CS and Math student at Queen's University, Canada. 
 
-I will  
-* be in Seattle this summer as a [Microsoft](https://www.microsoft.com/en-ca) Explore intern 
-* solo-travelling in Amsterdam and Germany in the end of April! 
+I will be in Seattle this summer as a [Microsoft](https://www.microsoft.com/en-ca) Explore intern and solo-travelling in Amsterdam and Germany in the end of April! 
 
-Currently, I
-* am an electrical team member of the [Queen's Space Engineering](http://qset.ca/) design team 
-* outreach coordinator for [Women in CS](http://qscwisc.weebly.com/) at Queen's 💖
+Currently, I am an electrical team member of the [Queen's Space Engineering](http://qset.ca/) design team  and the Outreach Coordinator for [Women in CS](http://qscwisc.weebly.com/) at Queen's 💖. Email me if you would be interested in running a workshop or partnering with us :) 
 
-Recently, I 
-* was a software developer intern @[BMO Capital Markets](https://www.bmocm.com/) where I worked on internal data validation tools for ETL layers
-* @[MakeHarvard](http://makeharvard.io/) learning about hardware and working with VR
-* @[Starcon](https://starcon.io/) learning about chatbots, rustlang, and more! 
+Recently, I was a software developer intern @[BMO Capital Markets](https://www.bmocm.com/) where I worked on internal data validation tools for ETL layers. I was also @[MakeHarvard](http://makeharvard.io/) learning about hardware and working with VR
+and @[Starcon](https://starcon.io/) learning about chatbots, rustlang, and more! 
 
 I also love playing the tuba, stats, solo-travelling, attending math colloquiums, and going on coffee crawls. 
 
