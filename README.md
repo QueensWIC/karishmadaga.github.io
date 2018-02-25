@@ -10,20 +10,20 @@
 
 Hi there! I'm Karishma, a sophomore CS and Math student at Queen's University, Canada. 
 
-I will be 
-* In Seattle this summer as a [Microsoft](https://www.microsoft.com/en-ca) Explore intern 
+I will  
+* Be in Seattle this summer as a [Microsoft](https://www.microsoft.com/en-ca) Explore intern 
 * Solo-travelling in Amsterdam and Germany in the end of April!
 
-I am currently 
-* An electrical team member of the [Queen's Space Engineering](http://qset.ca/) design team 
+Currently, I
+* Am an electrical team member of the [Queen's Space Engineering](http://qset.ca/) design team 
 * Outreach coordinator for [Women in CS](http://qscwisc.weebly.com/) at Queen's 💖
 
-Recently, I was 
-* A software developer intern @[BMO Capital Markets](https://www.bmocm.com/) where I worked on internal data validation tools for ETL layers. 
+Recently, I 
+* Was a software developer intern @[BMO Capital Markets](https://www.bmocm.com/) where I worked on internal data validation tools for ETL layers
 * @[MakeHarvard](http://makeharvard.io/) learning about hardware and working with VR
 * @[Starcon](https://starcon.io/) learning about chatbots, rustlang, and more! 
 
-I also love playing the tuba, stats, solo-travelling, and going on coffee crawls. 
+I also love playing the tuba, stats, solo-travelling, attending math colloquiums, and going on coffee crawls. 
 
 You can ping me at karishma.daga@queensu.ca or peep my
 
