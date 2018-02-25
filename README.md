@@ -21,7 +21,7 @@ I also love playing the tuba, stats, solo-travelling, attending math colloquiums
 
 You can ping me at karishma.daga@queensu.ca or peep my
 
-[resume](https://drive.google.com/file/d/16_wuQqkRYZVr2W3V9RRKUicrlVDE8YyV/view?usp=sharing)
+<center><p>[resume](https://drive.google.com/file/d/16_wuQqkRYZVr2W3V9RRKUicrlVDE8YyV/view?usp=sharing)
 //
 [twitter](https://twitter.com/karishmadagaa)
 //
@@ -30,6 +30,6 @@ You can ping me at karishma.daga@queensu.ca or peep my
 [linkedin](https://www.linkedin.com/in/karishma-daga/)
 //
 [github](https://github.com/KarishmaDaga)
-
+  </p></center>
 --- 
-###### _This is definitely still under construction._
+<center><b><i>This is definitely still under construction.</i></b></center>
