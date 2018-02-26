@@ -10,7 +10,7 @@
 
 Hi there! I'm Karishma, a sophomore CS and Math student at Queen's University, Canada. 
 
-I will be in Seattle this summer as a [Microsoft](https://www.microsoft.com/en-ca) Explore intern.
+I will be in Seattle this summer as a [Microsoft](https://www.microsoft.com/en-ca) Explore intern. I'll be solo-travelling Amsterdam and Germany as well! :) 
 
 Currently, I am an electrical team member of the [Queen's Space Engineering](http://qset.ca/) design team  and the Outreach Coordinator for [Women in CS](http://qscwisc.weebly.com/) at Queen's 💖. Email me if you would be interested in running a workshop or partnering with us :) 
 
