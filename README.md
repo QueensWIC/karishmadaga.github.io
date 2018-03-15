@@ -30,6 +30,8 @@ You can ping me at karishma.daga@queensu.ca or peep my
 [linkedin](https://www.linkedin.com/in/karishma-daga/)
 //
 [github](https://github.com/KarishmaDaga)
+//
+[thoughts](Reflections.md)
 
 --- 
 ###### _This is definitely still under construction._
