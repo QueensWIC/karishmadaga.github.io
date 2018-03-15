@@ -31,7 +31,7 @@ You can ping me at karishma.daga@queensu.ca or peep my
 //
 [github](https://github.com/KarishmaDaga)
 //
-[thoughts](Reflections.md)
+[thoughts](redirected-thoughts.md)
 
 --- 
 ###### _This is definitely still under construction._
