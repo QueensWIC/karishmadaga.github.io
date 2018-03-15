@@ -5,15 +5,8 @@
 - My Workshop on Internships!
 
 _see_ 
-[resume](https://drive.google.com/file/d/16_wuQqkRYZVr2W3V9RRKUicrlVDE8YyV/view?usp=sharing)
-//
+
 [twitter](https://twitter.com/karishmadagaa)
 //
-[course notes](http://karishmadaga.com/course-notes)
-//
-[linkedin](https://www.linkedin.com/in/karishma-daga/)
-//
-[github](https://github.com/KarishmaDaga)
-//
-[thoughts](redirected-thoughts.md)
+[podcast recs](podcast.md)
 
