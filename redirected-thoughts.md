@@ -4,9 +4,5 @@
 - [Reflecting on the Past Two Years](Reflections.md)
 - My Workshop on Internships!
 
-_see_ 
-
-[twitter](https://twitter.com/karishmadagaa)
-//
-[podcast recs](podcast.md)
+_see_ [twitter](https://twitter.com/karishmadagaa) // [podcast recs](podcast.md)
 
