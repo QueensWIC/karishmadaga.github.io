@@ -17,7 +17,7 @@ I'll be in Seattle this summer as a [Microsoft](https://www.microsoft.com/en-ca)
 *Recently*, I was a software developer intern @[BMO Capital Markets](https://www.bmocm.com/) where I worked on internal data validation tools for ETL layers. I was also @[MakeHarvard](http://makeharvard.io/) learning about hardware and working with VR
 and @[Starcon](https://starcon.io/) learning about chatbots, rustlang, and more! 
 
-I also love playing the tuba, stats, solo-travelling, attending math colloquiums, and going on coffee crawls. 
+I also love playing the tuba, stats, [listening to podcasts](podcasts.md) solo-travelling, attending math colloquiums, and going on coffee crawls. 
 
 You can ping me at karishma.daga@queensu.ca or peep my
 
