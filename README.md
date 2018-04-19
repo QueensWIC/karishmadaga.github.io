@@ -8,9 +8,9 @@
 
 # Karishma Daga
 
-Hi there! I'm Karishma, a sophomore CS and Math student at Queen's University, Canada. 
+Hi there! I'm Karishma, a sophomore studying Computer Science and Mathematics at Queen's University, Canada. 
 
-I'll be in Seattle this summer as a [Microsoft](https://www.microsoft.com/en-ca) Explorer intern. I'll be solo-travelling Amsterdam and Germany as well! :) 
+I'll be in Seattle this summer as a [Microsoft](https://www.microsoft.com/en-ca) Explorer intern! I'll be solo-travelling Amsterdam and Germany as well! :) 
 
 *Currently*, I am an electrical team member of the [Queen's Space Engineering](http://qset.ca/) design team  and the incoming Vice Chair for [Women in CS](http://qscwisc.weebly.com/) at Queen's 💖. Email me if you would be interested in running a workshop, mentoring students, or partnering with us :) 
 
@@ -31,7 +31,6 @@ You can ping me at karishma.daga@queensu.ca or peep my
 //
 [github](https://github.com/KarishmaDaga)
 //
-[thoughts](redirected-thoughts.md)
 
 --- 
 ###### _This is definitely still under construction._
