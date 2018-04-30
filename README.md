@@ -12,7 +12,7 @@ Hi there! I'm Karishma, a sophomore studying Computer Science and Mathematics at
 
 I'll be in Seattle this summer as a [Microsoft](https://www.microsoft.com/en-ca) Explorer intern! I'll be solo-travelling Amsterdam and Germany as well! :) 
 
-*Currently*, I am an electrical team member of the [Queen's Space Engineering](http://qset.ca/) design team, the incoming Vice Chair for [Women in CS](http://qscwisc.weebly.com/) at Queen's 💖 (Email me if you would be interested in running a workshop, mentoring students, or partnering with us), and on the speakers team for [Starcon 2018](https://starcon.io/)
+*Currently*, I am an electrical team member of the [Queen's Space Engineering](http://qset.ca/) design team, the incoming Vice Chair for [Women in CS](http://qscwisc.weebly.com/) at Queen's 💖 (Email me if you would be interested in running a workshop, mentoring students, or partnering with us), and on the speakers team for [Starcon 2018](https://starcon.io/) (!!)
 
 *Recently*, I was a software developer intern @[BMO Capital Markets](https://www.bmocm.com/) (Summer 2017) where I worked on internal data validation tools for ETL layers. I was also @[MakeHarvard](http://makeharvard.io/) learning about hardware and working with VR
 and @[Starcon](https://starcon.io/) learning about chatbots, rustlang, and more! 
