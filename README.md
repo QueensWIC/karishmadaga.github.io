@@ -10,7 +10,7 @@
 
 Hi there! I'm Karishma, a rising junior studying Computer Science and Mathematics at Queen's University, Canada. 
 
-I'll be in Redmond this summer as a [Microsoft](https://www.microsoft.com/en-ca) Explorer intern on the Core Experience Engineering team! I solo-travelled Amsterdam and Berlin as well! :) 
+I'll be in Redmond this summer as a [Microsoft](https://www.microsoft.com/) Explorer intern on the Core Experience Engineering team!
 
 *Currently*, I am an electrical team member of the [Queen's Space Engineering](http://qset.ca/) design team, on the speakers team for [Starcon 2019](https://starcon.io/) (!!), and the Vice Chair of Professional Developement for [Women in CS](http://qscwisc.weebly.com/) at Queen's 💖. Ping me if you would be interested in running a workshop, mentoring students, or partnering with us.
 
