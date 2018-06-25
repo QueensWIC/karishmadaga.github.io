@@ -10,9 +10,9 @@
 
 Hi there! I'm Karishma, a rising junior studying Computer Science and Mathematics at Queen's University, Canada. 
 
-I'll be in Redmond this summer as a [Microsoft](https://www.microsoft.com/) Explorer intern on the Core Experience Engineering team!
+I'm in Redmond this summer as a [Microsoft](https://www.microsoft.com/) Explorer intern on the Core Experience Engineering team where I'm working on improving customer experience with NLP and chatbots!
 
-*Currently*, I am an electrical team member of the [Queen's Space Engineering](http://qset.ca/) design team, on the speakers team for [Starcon 2019](https://starcon.io/) (!!), and the Vice Chair of Professional Developement for [Women in CS](http://qscwisc.weebly.com/) at Queen's 💖. Ping me if you would be interested in running a workshop, mentoring students, or partnering with us.
+*Currently*, I am on the speakers team for [StarCon 2019](https://starcon.io/) (!!) and the Vice Chair of Professional Developement for Women in CS at Queen's 💖. Ping me if you would be interested in running a workshop, mentoring students, or partnering with us.
 
 *Recently*, I was a software developer intern @[BMO Capital Markets](https://www.bmocm.com/) (Summer 2017) where I worked on internal data validation tools for ETL layers. I was also @[MakeHarvard](http://makeharvard.io/) learning about hardware and working with VR and @[Starcon 2018](https://starcon.io/) learning about chatbots, rustlang, and more! 
 
