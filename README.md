@@ -14,7 +14,7 @@ Hi there! I'm Karishma, a rising junior studying Computer Science and Mathematic
 - In Redmond as a [Microsoft](https://www.microsoft.com/) Explorer intern on the Core Platform Engineering team where I'm improving customer experience with NLP and chatbots!
 - On the Speakers team @[StarCon 2019](https://starcon.io/)
 - Vice Chair of Professional Developement for WiCS @Queen's 💖 where I run sponsorship, the mentorship program, and technical workshops
-- On the lookout for Summer 2019 internship 👀. I'm interested in EdTech, challenging projects with a lot of ownership, mentoring, and a heavy dash of statistics/math. 
+- On the lookout for Summer 2019 internship 👀. I'm interested in EdTech, challenging projects with a lot of ownership, mentoring, and a heavy dash of statistics/math
 
 *Recently, I was*
 - A SDE intern @[BMO Capital Markets](https://www.bmocm.com/) (Summer 2017)
