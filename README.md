@@ -10,7 +10,7 @@
 
 Hi there! I'm Karishma, a rising junior studying Computer Science and Mathematics at Queen's University, Canada. 
 
-*Currently, I'm*
+*Currently, I am*
 - In Redmond as a [Microsoft](https://www.microsoft.com/) Explorer intern on the Core Platform Engineering team where I'm improving customer experience with NLP and chatbots!
 - On the Speakers team @[StarCon 2019](https://starcon.io/)
 - Vice Chair of Professional Developement for WiCS @Queen's 💖 where I run sponsorship, the mentorship program, and technical workshops
