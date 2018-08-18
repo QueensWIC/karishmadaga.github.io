@@ -11,10 +11,10 @@
 Hi there! I'm Karishma, a rising junior studying Computer Science and Mathematics at Queen's University, Canada. 
 
 *Currently, I am*
-- In Redmond as a [Microsoft](https://www.microsoft.com/) Explorer intern on the Core Platform Engineering team where I'm improving customer experience with NLP and chatbots!
+- In Redmond as a [Microsoft](https://www.microsoft.com/) Explorer intern on the Core Platform Engineering team
 - On the Speakers team @[StarCon 2019](https://starcon.io/)
 - Vice Chair of Professional Developement for WiCS @Queen's 💖 where I run sponsorship, the mentorship program, and technical workshops
-- On the lookout for a Summer 2019 internship 👀. I'm interested in EdTech, challenging projects with a lot of ownership, mentoring, and a heavy dash of statistics/math
+- On the lookout for a Summer 2019 internship 👀
 
 *Recently, I was*
 - A SDE intern @[BMO Capital Markets](https://www.bmocm.com/) (Summer 2017)
@@ -31,7 +31,7 @@ You can ping me at [karishma.daga@queensu.ca](mailto:karishma.daga@queensu.ca) o
 //
 [course notes](http://karishmadaga.com/course-notes)
 //
-[linkedin](https://www.linkedin.com/in/karishma-daga/)
+[linkedin](https://www.linkedin.com/in/karishmadaga/)
 //
 [github](https://github.com/KarishmaDaga)
 
