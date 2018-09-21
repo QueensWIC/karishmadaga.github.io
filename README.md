@@ -6,7 +6,7 @@
   a {color: #7100FF}
 </style>
 
-# Karishma Daga
+# Qianyu Zhang
 
 Hi there! I'm Karishma, a rising junior studying Computer Science and Mathematics at Queen's University, Canada. 
 
