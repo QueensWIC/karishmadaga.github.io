@@ -8,7 +8,7 @@
 
 # Karishma Daga
 
-Hi there! I'm Karishma, a rising junior studying Computer Science and Mathematics at Queen's University, Canada. 
+Hi there! I'm Karishma, a junior studying Computer Science and Mathematics at Queen's University, Canada. 
 
 *Currently, I am*
 - In Redmond as a [Microsoft](https://www.microsoft.com/) Explorer intern on the Core Platform Engineering team
