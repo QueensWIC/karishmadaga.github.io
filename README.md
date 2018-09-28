@@ -11,12 +11,12 @@
 Hi there! I'm Karishma, a junior studying Computer Science and Mathematics at Queen's University, Canada. 
 
 *Currently, I am*
-- In Redmond as a [Microsoft](https://www.microsoft.com/) Explorer intern on the Core Platform Engineering team
 - On the Speakers team @[StarCon 2019](https://starcon.io/)
 - Vice Chair of Professional Developement for WiCS @Queen's 💖 where I run sponsorship, the mentorship program, and technical workshops
 - On the lookout for a Summer 2019 internship 👀
 
 *Recently, I was*
+- In Redmond as a [Microsoft](https://www.microsoft.com/) Explorer intern on the Core Platform Engineering team
 - A SDE intern @[BMO Capital Markets](https://www.bmocm.com/) (Summer 2017)
 - @[MakeHarvard](http://makeharvard.io/) learning about hardware and working with VR 😎
 - @[Starcon 2018](https://starcon.io/) learning about chatbots, rustlang, and more! 
