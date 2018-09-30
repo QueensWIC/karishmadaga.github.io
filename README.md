@@ -25,7 +25,7 @@ I also love playing the tuba, statistics, [listening to podcasts](podcast.md), g
 
 You can ping me at [karishma.daga@queensu.ca](mailto:karishma.daga@queensu.ca) or peep my
 
-[resume](https://drive.google.com/file/d/1hMQsh0j_AHdVcWlZcJwWmZ4SNTay3-EA/view?usp=sharing)
+[resume](https://drive.google.com/file/d/1ptIzok36fV8U0rYEhi3pJ9OFNzIIK8QM/view?usp=sharing)
 //
 [twitter](https://twitter.com/karishmadagaa)
 //
